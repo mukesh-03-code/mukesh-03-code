@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Cybersecurity-focused radar. Values are 0-100 and self-rated — be honest, interviewers will ask. The refresh workflow redraws assets/radar-*.svg on every push.",
+  "axes": [
+    { "label": "Python",     "value": 82 },
+    { "label": "OWASP/Web",  "value": 74 },
+    { "label": "Recon",      "value": 72 },
+    { "label": "Honeypots",  "value": 78 },
+    { "label": "Linux",      "value": 68 },
+    { "label": "Reporting",  "value": 70 }
+  ]
+}

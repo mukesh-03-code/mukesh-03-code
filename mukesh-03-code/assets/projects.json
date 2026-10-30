@@ -1,0 +1,33 @@
+{
+  "_comment": "Featured cards, in README order. Entries with 'repo' get live stars/forks/language from the API; the portfolio entry uses a plain 'link'.",
+  "projects": [
+    {
+      "name": "honeypot",
+      "repo": "honeypot",
+      "title": "honeypot",
+      "color": "#D29922",
+      "description": "Medium-interaction SSH / Telnet / HTTP decoy — emulated Ubuntu root shell, credential harvester, MITRE ATT&CK command classification, Geo-IP threat intel."
+    },
+    {
+      "name": "phishing_detector",
+      "repo": "phishing_detector",
+      "title": "phishing detector",
+      "color": "#F85149",
+      "description": "AI phishing URL & email detection — scikit-learn voting ensemble, 16 lexical / homograph / entropy feature extractors, risk scoring."
+    },
+    {
+      "name": "smart-care-bed",
+      "repo": "smart-care-bed-system",
+      "title": "smart care bed",
+      "color": "#5319E7",
+      "description": "Sensor-driven patient monitoring — movement tracking, fall detection and caregiver alerts. A system is only as safe as its assumptions."
+    },
+    {
+      "name": "portfolio",
+      "link": "https://mukesh-balamurugan.web.app",
+      "title": "portfolio",
+      "color": "#39d353",
+      "description": "Projects, certificates and résumé — the full story behind the code."
+    }
+  ]
+}
